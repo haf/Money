@@ -8,3 +8,4 @@
 *.resources
 bin
 */test-results/*
+_ReSharper.Payments/
